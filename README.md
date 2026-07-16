@@ -1,6 +1,6 @@
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Model Context Protocol (MCP) servers — the open standard for connecting AI models to tools, data, and services.
+> A curated list of Model Context Protocol (MCP) servers - the open standard for connecting AI models to tools, data, and services.
 
 ## Contents
 
@@ -46,6 +46,7 @@
 ## Communication
 
 - [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Channel management and messaging capabilities for Slack.
+- [Xquik](https://docs.xquik.com/mcp/overview) - Remote Streamable HTTP server for X/Twitter search, audience data, media, monitoring, webhooks, and confirmation-based writes. Supports OAuth 2.1 and API keys. Not affiliated with X Corp.
 
 ## AI & ML
 
