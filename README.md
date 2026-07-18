@@ -1,6 +1,6 @@
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Model Context Protocol (MCP) servers — the open standard for connecting AI models to tools, data, and services.
+> A curated list of Model Context Protocol (MCP) servers - the open standard for connecting AI models to tools, data, and services.
 
 ## Contents
 
@@ -25,44 +25,47 @@
 ## File System & Storage
 
 - [filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
-- [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - File access and search for Google Drive.
+- [Google Drive](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive) - File access and search for Google Drive.
 
 ## Databases
 
-- [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Read-only database access with schema inspection.
-- [SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - Database interaction and business intelligence with SQLite.
+- [PostgreSQL](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) - Read-only database access with schema inspection.
+- [SQLite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite) - Database interaction and business intelligence with SQLite.
 
 ## Web & Browser
 
-- [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation and web scraping.
 - [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Web content fetching and conversion for efficient LLM usage.
+- [Puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation and web scraping.
 
 ## Developer Tools
 
 - [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Tools to read, search, and manipulate Git repositories.
-- [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Repository management, file operations, and GitHub API integration.
-- [GitLab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab API integration enabling project management.
+- [GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github) - Repository management, file operations, and GitHub API integration.
+- [GitLab](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab) - GitLab API integration enabling project management.
 
 ## Communication
 
-- [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Channel management and messaging capabilities for Slack.
+- [Slack](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack) - Channel management and messaging capabilities for Slack.
+- [Xquik](https://docs.xquik.com/mcp/overview) - Remote Streamable HTTP server for X/Twitter search, audience data, media, monitoring, webhooks, and confirmation-based writes. Supports OAuth 2.1 and API keys. Not affiliated with X Corp.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## AI & ML
 
-- [EverArt](https://github.com/modelcontextprotocol/servers/tree/main/src/everart) - AI image generation using various models.
+- [EverArt](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart) - AI image generation using various models.
 
 ## Cloud & Infrastructure
 
-- [AWS KB Retrieval](https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server) - Retrieval from AWS Knowledge Base using Bedrock Agent Runtime.
+- [AWS KB Retrieval](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server) - Retrieval from AWS Knowledge Base using Bedrock Agent Runtime.
 
 ## Productivity
 
-- [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Location services, directions, and place details.
+- [Google Maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) - Location services, directions, and place details.
 - [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Knowledge graph-based persistent memory system.
 
 ## Search
 
-- [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web and local search using Brave's Search API.
+- [Brave Search](https://github.com/brave/brave-search-mcp-server) - Official server for web and local search using Brave's Search API.
 
 ---
 
@@ -84,4 +87,4 @@ Please ensure your server:
 
 ## License
 
-[CC0 1.0](LICENSE)
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
