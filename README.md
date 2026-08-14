@@ -50,6 +50,7 @@
 ## AI & ML
 
 - [EverArt](https://github.com/modelcontextprotocol/servers/tree/main/src/everart) - AI image generation using various models.
+- [RunAPI MCP](https://github.com/runapi-ai/mcp) - Create and monitor AI image, video, music, and model API jobs through RunAPI.
 
 ## Cloud & Infrastructure
 
