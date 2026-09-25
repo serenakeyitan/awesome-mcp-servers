@@ -36,6 +36,7 @@
 
 - [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation and web scraping.
 - [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Web content fetching and conversion for efficient LLM usage.
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## Developer Tools
 
