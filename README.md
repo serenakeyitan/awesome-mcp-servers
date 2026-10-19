@@ -39,6 +39,7 @@
 
 ## Developer Tools
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Tools to read, search, and manipulate Git repositories.
 - [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Repository management, file operations, and GitHub API integration.
 - [GitLab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab API integration enabling project management.
